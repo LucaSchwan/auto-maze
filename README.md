@@ -1,8 +1,6 @@
 # [auto_maze](https://lucaschwan.github.io/auto-maze/)
 
-<img src=“https://github.com/LucaSchwan/auto-maze/blob/master/pics/auto_maze.png” width="50%" alt="A generated and solved maze">  
-
-<br />
+![A generated and then solved maze](pics/auto_maze.png)
 
 A maze generating itself and than solving itself in the shortest way possible using P5.min.js.
 The auto_maze is using the recursive Backtracking algorithm(https://en.wikipedia.org/wiki/Maze_generation_algorithm) for generating the maze and the A* search algorithm(https://en.wikipedia.org/wiki/A*_search_algorithm) for the solving of the maze.  
