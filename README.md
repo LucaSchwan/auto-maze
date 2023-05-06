@@ -1,6 +1,6 @@
 # [auto_maze](https://lucaschwan.github.io/auto-maze/)
 
-<img src=“./pics/auto_maze.png” width="50%" alt="A generated and solved maze">  
+<img src=“https://github.com/LucaSchwan/auto-maze/blob/master/pics/auto_maze.png” width="50%" alt="A generated and solved maze">  
 
 <br />
 
